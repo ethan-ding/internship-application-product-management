@@ -72,6 +72,22 @@ https://www.cloudflare.com/gaming/
 
 **None of the above users are actual gaming publishers, but rather gaming adjacent, where are RIOT / EPIC / Activision-Blizzard?**
 
+## Gaming in General 
+
+**how players connect to servers**
+https://developer.valvesoftware.com/wiki/Source_Multiplayer_Networking
+
+**how are video games host multiplayer feedback so quickly?**
+https://stackoverflow.com/questions/2847929/how-online-game-clients-are-able-to-exchange-data-through-internet-so-fast
+- No data mining, they hold world data in memory, not disk
+- they dont use web servers or HTTP requests, intead they use Bespoke servers for specific games 
+ 
+
+## Generic Use Case
+
+**Here's what Cloudflare Workers Do** ~ Wes Bos
+https://www.youtube.com/watch?v=48NWaLkDcME
+
 ## Generic Cloudflare Research
 
 ### Glassdoor Cloudflare PM Questions 
