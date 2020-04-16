@@ -55,12 +55,26 @@ Ubiquity: JavaScript is everywhere. Anyone building a web application already ne
 
 Alternatives: Lua / Virutal Machines / Containers / Vx32 / Node.js 
 
-### Decision Making Aspects:
+## Cloudflare for Gaming
 
-- Service Worker implements an asynchronous endpoint
-  - Can do all those things 
+https://www.cloudflare.com/gaming/
 
-## Glassdoor Cloudflare PM Questions 
+- 100% Cloudflare uptime SLA for your custom TCP/UDP protocols and protection from DDoS attacks and abusive bots **tl;dr protection from attacks on service, 24/7**
+- Supercharge game downloads and in-game performance for a faster, more real-time gamer experience **tl;dr speed of downloads, reduce lag**
+- Develop bespoke serverless matchmaking architecture (and more!) without worrying about unexpected spikes in demand **tl;dr use as much computing power as you need**
+
+### Current Users
+
+- Nodecraft (Gaming servers for CSGO / Minecraft / Left4Dead)
+- Discord (Gaming voice-communications / community chat platform)
+- Turtle Entertainment (parent company of CS:GO and Dota2 tournament host)
+- Curse (Owns fandom.com, gaming comunities, E-sports team)
+
+**None of the above users are actual gaming publishers, but rather gaming adjacent, where are RIOT / EPIC / Activision-Blizzard?**
+
+## Generic Cloudflare Research
+
+### Glassdoor Cloudflare PM Questions 
 
 - You are PM for a new Cloudflare product, The traditional Cloudflare products make sales reps 100,000 in commission. Your product only makes a sales rep 50,000 in commission. How do you convince the sales rep to start selling your product?  
   - 50,000 per product or over what interval of time?
@@ -81,7 +95,7 @@ Alternatives: Lua / Virutal Machines / Containers / Vx32 / Node.js
   - v1.2: Security, include live screenshot
   - Discussion of the product/feature process, and some tech details around memory isolation.
 
-## Marketting Intern Blog
+### Marketting Intern Blog
 
 - SSL / TLS Transport Layer Security
   - cryptographic protocals which provide security 
@@ -90,5 +104,6 @@ Alternatives: Lua / Virutal Machines / Containers / Vx32 / Node.js
 
 - Seeing orange?
   - CND and TLS/SSL provision
-  - content delivery network 
+  - content delivery network
 
+- Focus on smart?

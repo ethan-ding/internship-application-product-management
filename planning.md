@@ -12,4 +12,8 @@
 
 - Step 5: Yeeet
 
-## 
+- Plans to learn more about the market and its needs
+- Product changes or additions you believe might be valuable
+- Methods for improving the quality of your offering before it is released
+- Goals to measure the success of what you build
+- Risks which might lead to its failure
